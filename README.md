@@ -1,7 +1,12 @@
-# volsegtree 2d transfer function for Volume raycasting rendering
+# volsegtree
+2d transfer function for Volume raycasting rendering
+
 Automatically exported from code.google.com/p/volsegtree
 
 http://http.developer.nvidia.com/GPUGems/gpugems_ch39.html
+
+http://www.umiacs.umd.edu/~joseph/ip_scivis12.pdf
+
 # Volume Segmentation Tree
 The project produces a volume segment hierarchy from a raw volume data
 
@@ -56,4 +61,4 @@ IEEE Transactions on Visualization and Computer Graphics, 18(12), 2012, pp 2355-
 }
 ```
 
-https://youtu.be/Lyb97Po2_1g
+http://img.youtube.com/vi/Lyb97Po2_1g/0.jpg
